@@ -15,4 +15,5 @@ Just a simple program which visualizes some sorting algorithm
 - Shell Sort
 
 # Credits
-- www.geeksforgeeks.org
+- www.geeksforgeeks.org ( For the sorting algorithms )
+- IMGUI for rendering
