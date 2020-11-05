@@ -1,5 +1,5 @@
 # ContionMig's Algorithm Visualizer
-[[My Website]](http://sagaanpillai.com/)
+[[My Website]](https://mitsuzi.xyz/)
 
 Just a simple program which visualizes some sorting algorithm
 
